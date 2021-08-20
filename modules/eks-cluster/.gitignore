@@ -1,0 +1,10 @@
+# Terraform Generated Config Auth Map File
+configmap-auth.yaml
+# Terraform Generated Dashboard deployment
+dashboard.yaml
+# Terraform ingress controller
+ingress-controller.yaml
+# Terraform Generated K8s Storage Class Config
+storage-class.yaml
+# external dns
+external-dns.yaml
